@@ -1,0 +1,52 @@
+/*barra horizontal*/
+ul{
+    background: #333;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    margin: 0;
+    padding: 12px;
+    color: white;
+}
+
+li:hover{
+    background-color: rgb(65, 65, 65);;
+}
+#ecoinventos{
+    width: 400;
+    height: 55;
+    background-color: aqua;
+    float: left;
+    margin: 10px;
+}
+
+div#Eco{
+    background-color: rgb(233, 233, 233);
+    width: 70vw;
+    height: 83vh;
+    float: left;
+    margin-right: 4px;
+}
+
+div#Noti{
+    background-color: rgb(185, 210, 226);
+    width: 27vw;
+    height: 83vh;
+    float: left;
+    margin-left: 4px;
+}
+
+footer{
+    background-color: rgb(20, 20, 20);
+    float: left;
+    margin: 10px;
+    width: 100vw;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    color: white;
+    text-align: center;
+
+}
